@@ -15,7 +15,7 @@
         "test": "jest --watch",
         "lint": "eslint 'src/**/**'",
         "validate": "npm run lint && npm run test:ci",
-        "deploy": "npm run validate && npm run build && npm publish"
+        "deploy": "npm run validate && npm run build && npm publish --access public"
     },
     "author": "Clay Branch",
     "license": "MIT",

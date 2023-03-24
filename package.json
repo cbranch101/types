@@ -1,6 +1,6 @@
 {
     "name": "@cbranch101/types",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Shared Functional Types",
     "source": "src/index.js",
     "main": "dist/main.js",
